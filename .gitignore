@@ -1,0 +1,10 @@
+# --- Root/General ---
+.DS_Store
+.env
+*.log
+
+# --- Python (Server) ---
+server_python/venv/
+server_python/__pycache__/
+server_python/*.pyc
+server_python/.pytest_cache/
